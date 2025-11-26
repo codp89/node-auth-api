@@ -39,7 +39,7 @@ Nodemon (modo desarrollo)
 
 Instalación y configuración
 1 -Clonar el repositorio
-git clone https://github.com/tu-usuario/node-auth-api.git
+git clone https://github.com/codp89/node-auth-api.git
 cd node-auth-api
 
 2 -Instalar dependencias
